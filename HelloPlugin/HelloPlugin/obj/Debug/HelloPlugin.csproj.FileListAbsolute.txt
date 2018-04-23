@@ -1,0 +1,8 @@
+C:\Users\Song\Documents\github\pgina\Plugins\Contrib\HelloPlugin\HelloPlugin\bin\pGina.Plugin.HelloPlugin.dll
+C:\Users\Song\Documents\github\pgina\Plugins\Contrib\HelloPlugin\HelloPlugin\bin\pGina.Plugin.HelloPlugin.pdb
+C:\Users\Song\Documents\github\pgina\Plugins\Contrib\HelloPlugin\HelloPlugin\obj\Debug\HelloPlugin.csprojResolveAssemblyReference.cache
+C:\Users\Song\Documents\github\pgina\Plugins\Contrib\HelloPlugin\HelloPlugin\obj\Debug\pGina.Plugin.HelloPlugin.dll
+C:\Users\Song\Documents\github\pgina\Plugins\Contrib\HelloPlugin\HelloPlugin\obj\Debug\pGina.Plugin.HelloPlugin.pdb
+C:\Users\Song\Documents\github\pgina\Plugins\Contrib\HelloPlugin\HelloPlugin\bin\Abstractions.dll
+C:\Users\Song\Documents\github\pgina\Plugins\Contrib\HelloPlugin\HelloPlugin\bin\log4net.dll
+C:\Users\Song\Documents\github\pgina\Plugins\Contrib\HelloPlugin\HelloPlugin\bin\pGina.Shared.dll
